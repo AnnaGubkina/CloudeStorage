@@ -1,9 +1,0 @@
-ru/netology/cloudservice/repository/FileRepositoryTest.class
-ru/netology/cloudservice/config/SystemTestingJpaConfig.class
-ru/netology/cloudservice/config/PostgreSqlContainerConfig.class
-ru/netology/cloudservice/config/SystemJpaTest.class
-ru/netology/cloudservice/service/UserServiceTest.class
-ru/netology/cloudservice/repository/AuthenticationRepositoryTest.class
-ru/netology/cloudservice/repository/UserRepositoryTest.class
-ru/netology/cloudservice/service/FileServiceTest.class
-ru/netology/cloudservice/service/AuthenticationServiceTest.class
